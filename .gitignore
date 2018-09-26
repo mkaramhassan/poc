@@ -1,0 +1,5 @@
+/AvailableHotels/AvailableHotelsWeb/classes/com/majidalfuttaim/www/hotels/rest/request/common/*.class
+/AvailableHotels/.data/AvailableHotelsWeb/00000000/*.jdb
+*.jdb
+*.lck
+*.class
